@@ -19,26 +19,26 @@
       <div class="projects d-flex align-items-center">
         <div class="project project1 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">LOPY ⏳</div>
+            <div class="project-name mb-3">Meditro</div>
             <div class="bio mb-5">
-              This project is part of our Software Engineering course, and it
-              focuses on creating a user-friendly platform for: Flight search
-              and booking based on user preferences. AI-driven suggestions for
-              cheaper flights, alternative routes, and optimal travel dates.
-              Real-time alerts for price changes and exclusive deals.
+              meditro is an responsive medical website ,I used vue.js , Tailwind
+              ;I have been intending to learn Tailwind for a week, so I created
+              this website to apply what I learned there.
             </div>
             <div class="details d-flex justify-content-between">
-              <div class="used d-flex align-items-center">
-                #vue #pinia #vulidate
-              </div>
+              <div class="used d-flex align-items-center">#vue #Tailwind</div>
               <div class="links">
-                <img src="../assets/eye.png" alt="" />
-                <img class="me-2 ms-2" src="../assets/github.png" alt="" />
+                <a target="_blanc" href="https://meditroo.netlify.app/"
+                  ><img src="../assets/eye.png" alt=""
+                /></a>
+                <a href="https://github.com/ameenmv/meditroo" target="_blanc"
+                  ><img class="me-2 ms-2" src="../assets/github.png" alt=""
+                /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img class="lopy" src="../assets/Lopy.png" alt="" />
+            <img class="lopy" src="../assets/meditro.png" alt="" />
           </div>
         </div>
         <div class="project project2 d-flex gap-5">
@@ -250,9 +250,7 @@ export default {
 .right img {
   width: 700px;
 }
-.lopy {
-  height: 345px;
-}
+
 .project-name {
   color: var(--white-color);
   font-weight: bold;
@@ -276,6 +274,19 @@ export default {
   }
 }
 
+@media (min-width: 1550px) {
+  .portfolio {
+    height: 260dvh;
+  }
+  .projects {
+    height: 240dvh;
+    gap: 400px;
+  }
+  .floating-box.fixed {
+    margin-right: 150px;
+  }
+}
+
 @media (max-width: 1290px) {
   .floating-box.fixed {
     margin-right: 50px;
@@ -284,10 +295,10 @@ export default {
 }
 @media (max-width: 1200px) {
   .portfolio {
-    height: 280dvh;
+    height: 300dvh;
   }
   .projects {
-    height: 260dvh;
+    height: 280dvh;
     gap: 400px;
   }
   .heading {
@@ -398,13 +409,17 @@ export default {
     gap: 200px;
   }
   .projects {
-    height: 310dvh;
+    height: 270dvh;
   }
   .portfolio {
-    height: 340dvh;
+    height: 290dvh;
   }
   .project {
     flex-direction: column-reverse;
+  }
+  .right {
+    width: 100%;
+    height: 13rem;
   }
   .right img {
     width: 100%;
@@ -435,7 +450,7 @@ export default {
     height: 25px;
   }
 }
-@media (max-width: 550px) {
+/*@media (max-width: 550px) {
   .portfolio {
     height: 250dvh;
   }
@@ -444,6 +459,7 @@ export default {
     gap: 200px;
   }
 }
+*/
 @media (max-width: 500px) {
   .floating-box.fixed {
     margin-right: 8px;

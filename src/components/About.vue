@@ -34,7 +34,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1OhZzOiyLLk6NjNzinexBd0iNRv_g5Vch/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1EN5mm4bTcrp7vsokloYx2NfdY5NFdcFy/view?usp=sharing"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -93,7 +93,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1OhZzOiyLLk6NjNzinexBd0iNRv_g5Vch/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1EN5mm4bTcrp7vsokloYx2NfdY5NFdcFy/view?usp=sharing"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -238,10 +238,18 @@ h1 span {
 }
 @media (min-width: 1558px) {
   .about {
-    height: 250dvh;
+    height: 280dvh;
   }
   .text {
-    height: 240dvh;
+    height: 270dvh;
+  }
+}
+@media (max-width: 1200px) {
+  .about {
+    height: 380dvh;
+  }
+  .text {
+    height: 370dvh;
   }
 }
 @media (max-width: 991px) {
