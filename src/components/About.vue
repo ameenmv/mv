@@ -12,19 +12,20 @@
       <div class="one">
         <h1 class="fs-1 mb-4">Who is <span>Ameen Mohamed ?</span></h1>
         <p class="fs-5">
-          A Computer Science Dept Student at the Faculty of Computers &
-          Information, Mansoura University. a dedicated Front-End Developer
-          specializing in Vue.js , React with a passion for Software
-          Engineering. Eager to leverage my skills in creating dynamic and
-          responsive web & e-commerce web applications, I am committed to
-          continuous learning and professional growth in the tech industry.
+          A Computer Science student at the Faculty of Computers & Information,
+          Mansoura University. A dedicated Front-End Developer specialized in
+          Vue.js, with additional experience in React. Currently expanding my
+          skills in Back-End development using PHP and Laravel through ITI
+          training. Passionate about software engineering and clean code, I’m
+          eager to build dynamic, responsive, and scalable web applications
+          while continuously growing in the tech industry.
         </p>
         <div class="links d-flex">
           <div class="icons">
             <a target="_blank" href="https://github.com/ameenmv">
               <img src="../assets/githubb.png" alt="" />
             </a>
-            <a target="_blank" href="https://linkedin.com/in/ameeenmv">
+            <a target="_blank" href="https://www.linkedin.com/in/ameeenmv/">
               <img src="../assets/linkedin.png" alt="" />
             </a>
 
@@ -34,7 +35,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1EN5mm4bTcrp7vsokloYx2NfdY5NFdcFy/view?usp=sharing"
+            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -43,18 +44,19 @@
       <div class="two">
         <h1 class="fs-1 mb-4">what can <span>Ameen</span> do ?</h1>
         <p class="fs-5">
-          I'm a skilled website developer with experience in Javascript and
-          TypeScript, and expertise in frameworks like vue.js , React. I'm a
-          quick learner and collaborate closely with clients to create
-          efficient, scalable, and user-friendly solutions that solve real-world
-          problems. Let's work together to bring your ideas to life!
+          I'm a Front-End Developer with strong experience in Vue.js and solid
+          knowledge of React, along with expertise in JavaScript. I focus on
+          building efficient, scalable, and user-friendly web applications with
+          clean and maintainable code. I’m a fast learner and work closely with
+          teams and clients to deliver real-world digital solutions. Let’s
+          collaborate to bring your ideas to life.
         </p>
         <div class="links d-flex">
           <div class="icons">
             <a target="_blank" href="https://github.com/ameenmv">
               <img src="../assets/githubb.png" alt="" />
             </a>
-            <a target="_blank" href="https://linkedin.com/in/ameeenmv">
+            <a target="_blank" href="https://www.linkedin.com/in/ameeenmv/">
               <img src="../assets/linkedin.png" alt="" />
             </a>
 
@@ -64,7 +66,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1OhZzOiyLLk6NjNzinexBd0iNRv_g5Vch/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -72,9 +74,9 @@
       </div>
       <div class="three">
         <h1>Some of <span>Ameen's</span> skills and Technologies</h1>
-        <p class="fs-5">
-          Vue.js , React.js , Vueyify , Unit Testing , Sass , Bootstrap , Pug.js
-          , Gulp.js , C# , C++ , OOP , Git , Github , Problem Solving
+        <p class="fs-5 mt-3">
+          Vue.js, React.js, three.js, Vuex, Vuetify, Bootstrap, Tailwind,
+          Python, C#, C++, OOP, Git, Github, Problem Solving
           <br />
           tap the Preview My CV's button (banner😆) to learn more &nbsp;
           <span class="fs-3">⤦</span>
@@ -84,7 +86,7 @@
             <a target="_blank" href="https://github.com/ameenmv">
               <img src="../assets/githubb.png" alt="" />
             </a>
-            <a target="_blank" href="https://linkedin.com/in/ameeenmv">
+            <a target="_blank" href="https://www.linkedin.com/in/ameeenmv/">
               <img src="../assets/linkedin.png" alt="" />
             </a>
             <a target="_blank" href="https://instagram.com/ameeen_mv">
@@ -93,7 +95,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1EN5mm4bTcrp7vsokloYx2NfdY5NFdcFy/view?usp=sharing"
+            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -161,7 +163,7 @@ export default {
 .about {
   background: var(--bg-color);
   position: relative;
-  height: 350dvh;
+  height: 370dvh;
 }
 /*.overlay {
   position: absolute;

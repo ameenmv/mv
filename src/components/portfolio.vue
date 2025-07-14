@@ -21,9 +21,12 @@
           <div class="left">
             <div class="project-name mb-3">Meditro</div>
             <div class="bio mb-5">
-              meditro is an responsive medical website ,I used vue.js , Tailwind
-              ;I have been intending to learn Tailwind for a week, so I created
-              this website to apply what I learned there.
+              Meditro is a responsive medical website built using Vue.js and
+              Tailwind CSS. I created this project as a practical way to apply
+              and strengthen my newly acquired skills in Tailwind, while
+              enhancing my front-end development experience. The website focuses
+              on clean design and responsive layouts, providing a user-friendly
+              interface across all devices.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">#vue #Tailwind</div>
@@ -45,10 +48,12 @@
           <div class="left">
             <div class="project-name mb-3">HIDAAYA</div>
             <div class="bio mb-5">
-              Hidaaya is a responsive islamic website which serves as your guide
-              to prayer times, the Quran, and supplications , I designed my own
-              UI, while consulting a few websites to gain an idea of I​slamic
-              websites. And made me deeply involved in dealing with APIS
+              Hidaaya is a responsive Islamic website that serves as a guide for
+              prayer times, Quran reading, and daily supplications. I designed
+              the entire UI from scratch, taking inspiration from various
+              Islamic websites to craft a clean and user-friendly experience.
+              This project also deepened my experience in working with APIs and
+              handling dynamic data integration.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">#HTML #CSS #JS</div>
@@ -70,10 +75,12 @@
           <div class="left">
             <div class="project-name mb-3">KIIIBS</div>
             <div class="bio mb-5">
-              KIIIBS is a responsive online store that sells KEYBOARDS, KEYCAPS,
-              DESKMATS. I learned a lot from designing this site and developed
-              my search skills and make depth of vue.js. I designed this site
-              without the help of CSS libraries.
+              KIIIBS is a responsive online store specialized in selling
+              keyboards, keycaps, and deskmats. Through building this project, I
+              enhanced my design skills, improved my problem-solving and
+              research abilities, and deepened my understanding of Vue.js. The
+              entire website was designed and styled from scratch without using
+              any CSS libraries.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">

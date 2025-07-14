@@ -13,6 +13,15 @@
 html {
   scroll-behavior: smooth;
 }
+
+.containerr {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem; /* 16px */
+  padding-right: 2rem;
+}
+
 ul {
   list-style: none;
   margin: 0 !important;

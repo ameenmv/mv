@@ -15,7 +15,7 @@
         <a target="_blank" href="https://github.com/ameenmv"
           ><img src="../assets/githubb.png" alt=""
         /></a>
-        <a target="_blank" href="https://linkedin.com/in/ameeenmv"
+        <a target="_blank" href="https://www.linkedin.com/in/ameeenmv/"
           ><img src="../assets/linkedin.png" alt=""
         /></a>
       </div>
