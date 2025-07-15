@@ -46,29 +46,33 @@
         </div>
         <div class="project project2 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">HIDAAYA</div>
+            <div class="project-name mb-3">mvclinic</div>
             <div class="bio mb-5">
-              Hidaaya is a responsive Islamic website that serves as a guide for
-              prayer times, Quran reading, and daily supplications. I designed
-              the entire UI from scratch, taking inspiration from various
-              Islamic websites to craft a clean and user-friendly experience.
-              This project also deepened my experience in working with APIs and
-              handling dynamic data integration.
+              Front-End Clinic Appointment System Developed a simple appointment
+              booking interface where patients can schedule appointments and
+              doctors can accept or reject requests. Built using static JSON
+              data for demonstration purposes. Initially intended as a
+              full-featured platform, this version represents the completed
+              front-end prototype.
             </div>
             <div class="details d-flex justify-content-between">
-              <div class="used d-flex align-items-center">#HTML #CSS #JS</div>
+              <div class="used d-flex align-items-center">
+                #Vue.js, #Tailwind CSS, #Pinia
+              </div>
               <div class="links">
-                <a target="_blank" href="https://ameenmv.github.io/Hidaaya/"
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/posts/ameeenmv_mvclinic-a-simple-clinic-appointment-system-activity-7350590510383669249-FrKP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
                   ><img src="../assets/eye.png" alt=""
                 /></a>
-                <a target="_blank" href="https://github.com/ameenmv/Hidaaya"
+                <a target="_blank" href="https://github.com/ameenmv/mvclinic"
                   ><img class="me-2 ms-2" src="../assets/github.png" alt=""
                 /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img src="../assets/hidaya.png" alt="" />
+            <img src="../assets/mvclinic.png" alt="" />
           </div>
         </div>
         <div class="project project2 d-flex gap-5">

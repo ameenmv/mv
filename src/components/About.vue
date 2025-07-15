@@ -35,7 +35,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
+            href="https://drive.google.com/file/d/1VVIfjEZFaqcHf2lYwZ0pjah8fOyQ271l/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -66,7 +66,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
+            href="https://drive.google.com/file/d/1VVIfjEZFaqcHf2lYwZ0pjah8fOyQ271l/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -95,7 +95,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1IlY_RkG4bRIPlrPmX-l8QCX9rJsiE6hn/view"
+            href="https://drive.google.com/file/d/1VVIfjEZFaqcHf2lYwZ0pjah8fOyQ271l/view"
           >
             <button>Preview My CV ?</button>
           </a>
