@@ -19,29 +19,33 @@
       <div class="projects d-flex align-items-center">
         <div class="project project1 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">Meditro</div>
+            <div class="project-name mb-3">MV LMS</div>
             <div class="bio mb-5">
-              Meditro is a responsive medical website built using Vue.js and
-              Tailwind CSS. I created this project as a practical way to apply
-              and strengthen my newly acquired skills in Tailwind, while
-              enhancing my front-end development experience. The website focuses
-              on clean design and responsive layouts, providing a user-friendly
-              interface across all devices.
+              MV LMS is a fully frontend project where I worked using two basic
+              APIs from free plan at mocka API (just plain text data) — building
+              the entire system logic and UI myself on the frontend side. In
+              this project, I focused more on logic building and handling
+              complex data flow rather than design — since design is already one
+              of my strong skills (as shown in my previous projects).
             </div>
             <div class="details d-flex justify-content-between">
-              <div class="used d-flex align-items-center">#vue #Tailwind</div>
+              <div class="used d-flex align-items-center">
+                #vue #Tailwind #Axios
+              </div>
               <div class="links">
-                <a target="_blanc" href="https://meditroo.netlify.app/"
+                <a
+                  target="_blanc"
+                  href="https://www.linkedin.com/posts/ameeenmv_mv-lms-is-a-fully-frontend-project-where-activity-7353485947507777536-OUI4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
                   ><img src="../assets/eye.png" alt=""
                 /></a>
-                <a href="https://github.com/ameenmv/meditroo" target="_blanc"
+                <a href="https://github.com/ameenmv/mv-lms" target="_blanc"
                   ><img class="me-2 ms-2" src="../assets/github.png" alt=""
                 /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img class="lopy" src="../assets/meditro.png" alt="" />
+            <img class="lopy" src="../assets/mvlms.png" alt="" />
           </div>
         </div>
         <div class="project project2 d-flex gap-5">
