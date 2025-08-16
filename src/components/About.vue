@@ -35,7 +35,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1yXtE0oPqw6hpkXFNvCF2OfGlFIMMdsy1/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1z3-1ywBLo2t6o5o213GaHjmgw6wl73it/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -66,7 +66,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1yXtE0oPqw6hpkXFNvCF2OfGlFIMMdsy1/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1z3-1ywBLo2t6o5o213GaHjmgw6wl73it/view"
           >
             <button>Preview My CV ?</button>
           </a>
@@ -75,8 +75,15 @@
       <div class="three">
         <h1>Some of <span>Ameen's</span> skills and Technologies</h1>
         <p class="fs-5 mt-3">
-          Vue.js, React.js, three.js, Vuex, Vuetify, Bootstrap, Tailwind,
-          Python, C#, C++, OOP, Git, Github, Problem Solving
+          Vue.js, React.js, JavaScript, TypeScript, Unit Testing, ECMAScript 6,
+          HTML, PugJS, Gulp.js, CSS, SASS, Tailwind CSS, Bootstrap, Vuetify, Vue
+          Router, Vuex, Pinia, GSAP, Three.js
+          <br />
+          PHP, Laravel, MySQL, Database, RESTful APIs
+          <br />
+          Cs50, C++, C#, Python, OOP, DataStructure, Algorithms, Git, GitHub,
+          Unit Testing
+
           <br />
           tap the Preview My CV's button (banner😆) to learn more &nbsp;
           <span class="fs-3">⤦</span>
@@ -95,7 +102,7 @@
           </div>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1yXtE0oPqw6hpkXFNvCF2OfGlFIMMdsy1/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1z3-1ywBLo2t6o5o213GaHjmgw6wl73it/view"
           >
             <button>Preview My CV ?</button>
           </a>

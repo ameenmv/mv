@@ -18,7 +18,7 @@
           <a class="three" href="#contact"><li>Contact</li></a>
         </ul>
         <a
-          href="https://drive.google.com/uc?export=download&id=1yXtE0oPqw6hpkXFNvCF2OfGlFIMMdsy1"
+          href="https://drive.google.com/uc?export=download&id=1z3-1ywBLo2t6o5o213GaHjmgw6wl73it"
         >
           <button class="btn rounded-pill fw-semibold">My CV ?</button>
         </a>

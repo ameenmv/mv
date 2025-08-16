@@ -19,33 +19,34 @@
       <div class="projects d-flex align-items-center">
         <div class="project project1 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">MV LMS</div>
+            <div class="project-name mb-3">MV Lib</div>
             <div class="bio mb-5">
-              MV LMS is a fully frontend project where I worked using two basic
-              APIs from free plan at mocka API (just plain text data) — building
-              the entire system logic and UI myself on the frontend side. In
-              this project, I focused more on logic building and handling
-              complex data flow rather than design — since design is already one
-              of my strong skills (as shown in my previous projects).
+              MVLib is an Online Library Management System developed as my final
+              project during my ITI internship, a journey full of learning,
+              research, and challenges. I designed the entire UI/UX from scratch
+              based on my own vision. The system offers an Admin Dashboard to
+              manage books, users, and borrowing activities with role-based
+              permissions. Students can register, browse books, borrow, and
+              manage their profiles and borrowed books.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">
-                #vue #Tailwind #Axios
+                #vue #Tailwind #Axios #Pinia #Vuelidate
               </div>
               <div class="links">
                 <a
                   target="_blanc"
-                  href="https://www.linkedin.com/posts/ameeenmv_mv-lms-is-a-fully-frontend-project-where-activity-7353485947507777536-OUI4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
+                  href="https://www.linkedin.com/posts/ameeenmv_mvlib-online-library-management-system-activity-7361810305875595267-HRIc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
                   ><img src="../assets/eye.png" alt=""
                 /></a>
-                <a href="https://github.com/ameenmv/mv-lms" target="_blanc"
+                <a href="https://github.com/ameenmv/MVLibrary" target="_blanc"
                   ><img class="me-2 ms-2" src="../assets/github.png" alt=""
                 /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img class="lopy" src="../assets/mvlms.png" alt="" />
+            <img class="lopy" src="../assets/mvlib.png" alt="" />
           </div>
         </div>
         <div class="project project2 d-flex gap-5">
