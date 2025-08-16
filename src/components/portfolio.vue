@@ -19,34 +19,31 @@
       <div class="projects d-flex align-items-center">
         <div class="project project1 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">MV Lib</div>
+            <div class="project-name mb-3">KIIIBS</div>
             <div class="bio mb-5">
-              MVLib is an Online Library Management System developed as my final
-              project during my ITI internship, a journey full of learning,
-              research, and challenges. I designed the entire UI/UX from scratch
-              based on my own vision. The system offers an Admin Dashboard to
-              manage books, users, and borrowing activities with role-based
-              permissions. Students can register, browse books, borrow, and
-              manage their profiles and borrowed books.
+              KIIIBS is a responsive online store specialized in selling
+              keyboards, keycaps, and deskmats. Through building this project, I
+              enhanced my design skills, improved my problem-solving and
+              research abilities, and deepened my understanding of Vue.js. The
+              entire website was designed and styled from scratch without using
+              any CSS libraries.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">
-                #vue #Tailwind #Axios #Pinia #Vuelidate
+                #vue #pinia #vulidate
               </div>
               <div class="links">
-                <a
-                  target="_blanc"
-                  href="https://www.linkedin.com/posts/ameeenmv_mvlib-online-library-management-system-activity-7361810305875595267-HRIc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
+                <a target="_blank" href="https://kiiibs.netlify.app/"
                   ><img src="../assets/eye.png" alt=""
                 /></a>
-                <a href="https://github.com/ameenmv/MVLibrary" target="_blanc"
+                <a target="_blank" href="https://github.com/ameenmv/kiiibs"
                   ><img class="me-2 ms-2" src="../assets/github.png" alt=""
                 /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img class="lopy" src="../assets/mvlib.png" alt="" />
+            <img src="../assets/kibs.png" alt="" />
           </div>
         </div>
         <div class="project project2 d-flex gap-5">
@@ -82,31 +79,34 @@
         </div>
         <div class="project project2 d-flex gap-5">
           <div class="left">
-            <div class="project-name mb-3">KIIIBS</div>
+            <div class="project-name mb-3">MV Lib</div>
             <div class="bio mb-5">
-              KIIIBS is a responsive online store specialized in selling
-              keyboards, keycaps, and deskmats. Through building this project, I
-              enhanced my design skills, improved my problem-solving and
-              research abilities, and deepened my understanding of Vue.js. The
-              entire website was designed and styled from scratch without using
-              any CSS libraries.
+              MVLib is an Online Library Management System developed as my final
+              project during my ITI internship, a journey full of learning,
+              research, and challenges. I designed the entire UI/UX from scratch
+              based on my own vision. The system offers an Admin Dashboard to
+              manage books, users, and borrowing activities with role-based
+              permissions. Students can register, browse books, borrow, and
+              manage their profiles and borrowed books.
             </div>
             <div class="details d-flex justify-content-between">
               <div class="used d-flex align-items-center">
-                #vue #pinia #vulidate
+                #vue #Tailwind #Axios #Pinia #Vuelidate
               </div>
               <div class="links">
-                <a target="_blank" href="https://kiiibs.netlify.app/"
+                <a
+                  target="_blanc"
+                  href="https://www.linkedin.com/posts/ameeenmv_mvlib-online-library-management-system-activity-7361810305875595267-HRIc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE7-DDgB0JrMctQNvAuTEzWA6ty97XuHN8k"
                   ><img src="../assets/eye.png" alt=""
                 /></a>
-                <a target="_blank" href="https://github.com/ameenmv/kiiibs"
+                <a href="https://github.com/ameenmv/MVLibrary" target="_blanc"
                   ><img class="me-2 ms-2" src="../assets/github.png" alt=""
                 /></a>
               </div>
             </div>
           </div>
           <div class="right">
-            <img src="../assets/kibs.png" alt="" />
+            <img class="lopy" src="../assets/mvlib.png" alt="" />
           </div>
         </div>
       </div>
