@@ -106,7 +106,7 @@
             </div>
           </div>
           <div class="right">
-            <img class="lopy" src="../assets/mvlib.png" alt="" />
+            <img class="lopy" src="../assets/lib.png" alt="" />
           </div>
         </div>
       </div>
