@@ -2,18 +2,6 @@
 
 A modern, responsive personal portfolio website built with Vue.js that showcases Ameen Mohamed's skills, projects, and experience as a Front-End Developer. The portfolio features a clean design with smooth animations, interactive elements, and a comprehensive showcase of professional work.
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## ✨ Features
 
 - **Responsive Design**: Mobile-first approach with Bootstrap 5 for optimal viewing on all devices
@@ -43,7 +31,7 @@ A modern, responsive personal portfolio website built with Vue.js that showcases
 - Modern browsers (Chrome, Firefox, Safari, Edge)
 - IE 11 not supported
 
-## 🚀 Installation
+## 🚀 Installation Guide
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -91,43 +79,7 @@ npm run build
 ### Custom Configuration
 See [Vue CLI Configuration Reference](https://cli.vuejs.org/config/) for advanced configuration options.
 
-## 📁 Project Structure
-
-```
-src/
-├── components/          # Vue components
-│   ├── About.vue       # About section component
-│   ├── contact.vue     # Contact form component
-│   ├── footer.vue      # Footer component
-│   ├── Landingpage.vue # Landing page component
-│   ├── Navbar.vue      # Navigation component
-│   ├── portfolio.vue   # Portfolio projects component
-│   └── splash.vue      # Splash screen component
-├── assets/             # Static assets (images, videos, icons)
-├── router/             # Vue Router configuration
-├── store/              # Vuex store configuration
-├── views/              # Page views
-├── App.vue             # Main app component
-└── main.js             # Application entry point
-```
-
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](screenshots/landing-page.png)
-*Professional introduction with animated elements and social media links*
-
-### About Section
-![About Section](screenshots/about-section.png)
-*Detailed information about skills, experience, and background*
-
-### Portfolio Projects
-![Portfolio](screenshots/portfolio.png)
-*Showcase of featured projects with descriptions and live links*
-
-> **Note**: Screenshots are placeholders. Replace with actual screenshots of your portfolio for better visual representation.
-
-## 🔮 Future Improvements
+## 🔮 Future Improvements / Roadmap
 
 - [ ] **Blog Section**: Add a blog to share technical insights and experiences
 - [ ] **Dark Mode**: Implement theme switching functionality
@@ -167,10 +119,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ameen Mohamed** is a Computer Science student at Mansoura University and a passionate Front-End Developer specializing in Vue.js. With experience in React, JavaScript, and modern web technologies, Ameen focuses on building efficient, scalable, and user-friendly web applications.
 
 ### Connect with Ameen
-- 🌐 **Portfolio**: [Live Demo](your-portfolio-url)
+- 🌐 **Portfolio**: [Live Demo](https://ameeenmv.netlify.app)
 - 💼 **LinkedIn**: [ameeenmv](https://linkedin.com/in/ameeenmv)
 - 🐙 **GitHub**: [ameenmv](https://github.com/ameenmv)
 - 📸 **Instagram**: [ameeen_mv](https://instagram.com/ameeen_mv)
+
 
 
 
